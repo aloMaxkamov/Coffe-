@@ -1,0 +1,245 @@
+.nav-ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: gray;
+    font-family: 'Alfa Slab One', cursive;
+font-family: 'Fira Sans', sans-serif;
+}
+.nav-li-home{
+    margin-left: 700px;
+}
+.nav-li-about{
+    margin-left: 20px;
+}
+.nav-li-Crate{
+    margin-left: 20px;
+}
+.container{
+    width: 1279px;
+    margin: 0 auto;
+}
+.main-crate{
+    width: 1280px;
+    height: 600px;
+background-image: url(img/Group\ 75.png);
+background-repeat: no-repeat;
+}
+.main-h2{   
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 72px;
+color: #FEFCF7;
+padding-top: 125px;
+margin-left: 50px;
+}
+.main-p{
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+mix-blend-mode: normal;
+opacity: 0.8;
+margin-left: 50px;
+}
+.Our-bitmap{
+    border-radius: 50px;
+}
+.Our-comminet{
+    width: 1110px;
+    height: 520px;
+    display: flex;
+}
+.our-comminet-title{
+    font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #333D4B;
+margin-left: 70px;
+padding-top: 50px;
+}
+.our-comminet-text{
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #333D4B;
+mix-blend-mode: normal;
+opacity: 0.8;
+margin-left: 70px;
+margin-top: 30px;
+}
+.Unicromcing{
+    width: 1280px;
+    height: 382px;
+    background-color:#333D4B;
+    margin-top: 50px;
+    display: flex;
+    position: relative;
+}
+.unicromin-title{
+    font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+margin-left: 50px;
+margin-top: 79px;
+}
+.unicroming-text{
+    width: 540px;
+    height: 130px;
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+mix-blend-mode: normal;
+opacity: 0.8;
+margin-left: 50px;
+}
+.unicromin-img{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    right: 50px;
+    bottom: 100px;
+    border-radius: 15px;
+}
+.Our-her-title{
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+margin-top: 50px;
+margin-left: 200px;
+}
+.Our-hearderquarted{
+    width: 1045px;
+    height: 366px;
+}
+.Our-item-img{
+    margin-top: 50px;
+}
+.Our-list{
+    list-style: none;
+    display: flex;
+    margin-left: 150px;
+}
+.Our-item-title{
+    font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 36px;
+color: #333D4B;
+}
+.Our-item-text{
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #333D4B;
+}
+.Our-item-img1{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.Our-item-img2{
+    margin-top: 60px;
+    margin-left: 200px;
+}
+.footer-tv{
+    width: 1280px;
+    height: 120px;
+    background-color:#2C343E;
+    margin-top: 150px;
+}
+.footer-ul{
+    list-style: none;
+    display: flex;
+}
+.footer-img{
+    padding-top: 35px;
+    margin-left: 50px;
+}
+.footer-home{
+    margin-left: 150px;
+    padding-top: 45px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.923077px;
+    color: #ffffff;
+}
+.footer-about{
+    padding-top: 45px;
+    margin-left: 30px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+    letter-spacing: 0.923077px;
+    color: #ffffff;
+}
+.footer-content{
+    padding-top: 45px;
+    margin-left: 30px;
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+text-transform: uppercase;
+letter-spacing: 0.923077px;
+color: #ffffff;
+}
+.iconify{
+    width: 24px;
+    height: 24px;
+    margin-left: 10px;
+    padding-top: 45px;
+}
+.tx-dce{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.tx-dce1{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.tx-dce2{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.footer-link{
+        text-decoration: none;
+        color: #FFFFFF;
+}
+ul li a:active{
+    color: #000000;
+    border-bottom: 1px solid red;
+    font-size: 18px;
+    font-weight: 900;
+   }
+   .iconify:active{
+color: yellow;
+   }
+ 
